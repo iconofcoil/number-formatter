@@ -1,0 +1,22 @@
+{
+  "name": "numbers",
+  "version": "0.1.0",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iconofcoil/number-formatter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Luis Hernandez <luispablo@itopia.com.mx> (www.itopia.com.mx)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iconofcoil/number-formatter/issues"
+  },
+  "homepage": "https://github.com/iconofcoil/number-formatter#readme"
+}
